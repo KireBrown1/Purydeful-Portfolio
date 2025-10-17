@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Kire Brown
+email: kirebrown527@gmail.com
+url: https://KireBrown1.github.io/Purydeful-Portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+meta_author: Brown Kire
 
 # Google webmaster tools
 google_verify:
@@ -25,14 +25,14 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
+  primary: b8a4c9 #80B3FF
   primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  secondary: 5e239d #FD6E8A
+  secondary-dark: 00f0b5 #A2122F
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Kire Brown
   location: Location
   social: Around the Web
   credits: Credits
